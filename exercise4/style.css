@@ -1,0 +1,16 @@
+#text
+{
+  text-align: center;
+  padding: 20px;
+}
+
+#container
+{
+  display: flex;
+}
+
+#input
+{
+  text-align: center;
+  padding: 20px;
+}

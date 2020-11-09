@@ -1,0 +1,68 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body
+{
+  background-image: url("https://wallpapertag.com/wallpaper/middle/b/a/e/837575-nice-black-background-2560x1600-for-phone.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Georgia, sans-serif;
+  font-size: 10px;
+}
+
+.profile
+{
+  margin: 0 auto;
+  padding: 0 3rem;
+  margin-top: 4rem;
+  text-align: center;
+}
+
+h1
+{
+  color: #808080;
+  font-size: 5rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+.image
+{
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+p
+{
+    font-size: 2rem;
+    color: #808080;
+    background-color: #404040;
+    border: 10px solid black;
+}
+
+a
+{
+  font-size: 2rem;
+  color: #808080;
+  padding: 0px 10px;
+}
+
+a.YouTube:hover
+{
+  color: red;
+}
+
+a.Twitch:hover
+{
+  color: #b300b3;
+}
+
+a.Reddit:hover
+{
+  color: #ff471a;
+}
